@@ -20,7 +20,7 @@ YouTube 채널의 모든 비디오 썸네일을 자동으로 다운로드해 주
 
 ## 사용 방법 🎮
 1. setup.bat을 실행하면 창이 나타납니다.
-2. YouTube 채널 ID와 YouTube API 키를 입력합니다. 기본적으로 [헤징 유튜브 채널](https://www.youtube.com/@hejin0_0)이 설정되어 있습니다.
+2. YouTube 채널ID와 YouTube API 키를 입력합니다. 채널ID는 기본적으로 [헤징 유튜브 채널](https://www.youtube.com/@hejin0_0)으로 설정되어 있습니다.
 3. "Download Thumbnails" 버튼을 클릭하여 썸네일 다운로드를 시작합니다.
 
 ## 주의 사항 ⚠️
