@@ -13,7 +13,7 @@ YouTube 채널의 모든 비디오 썸네일을 자동으로 다운로드해 주
     ```
     git clone https://github.com/verIdyia/thumbnail-downloader.git
     ```
-2. 배치 파일(`setup.bat`)을 실행하여 필요한 패키지와 Python을 설치하고 프로그램을 실행합니다.
+2. 배치 파일(`setup.bat`)을 실행하여 Python과 필요한 패키지를 설치하고 프로그램을 실행합니다.
     ```
     setup.bat
     ```
