@@ -11,7 +11,7 @@ YouTube 채널의 모든 비디오 썸네일을 자동으로 다운로드해 주
 1. 이 레포지토리를 [ZIP 파일로 다운로드](https://github.com/verIdyia/thumbnail-downloader/archive/refs/heads/main.zip)합니다.
     - 또는 `git clone`을 사용하여 클론할 수 있습니다.
     ```
-    git clone https://github.com/your-github-username/YouTube-Thumbnail-Downloader.git
+    git clone https://github.com/verIdyia/thumbnail-downloader.git
     ```
 2. 배치 파일(`setup.bat`)을 실행하여 필요한 패키지와 Python을 설치하고 프로그램을 실행합니다.
     ```
