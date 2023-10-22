@@ -18,8 +18,14 @@ YouTube 채널의 모든 비디오 썸네일을 자동으로 다운로드해 주
     python -m venv venv
     ```
 3. 가상환경을 활성화합니다.
-    - 윈도우: venv\Scripts\activate
-    - 맥과 리눅스: source venv/bin/activate
+    - 윈도우
+      ```
+      venv\Scripts\activate
+      ```
+    - 맥과 리눅스
+      ```
+      source venv/bin/activate
+      ```
 4. 필요한 패키지를 설치합니다.
     ```
     pip install -r requirements.txt
